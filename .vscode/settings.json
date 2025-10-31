@@ -1,0 +1,16 @@
+{
+  "java.project.sourcePaths": ["."],
+  "java.project.referencedLibraries": [
+    "/Users/fredx4-mac/Documents/Personal/Softwares/javafx-sdk-25.0.1/lib/javafx-swt.jar",
+    "/Users/fredx4-mac/Documents/Personal/Softwares/javafx-sdk-25.0.1/lib/javafx.base.jar",
+    "/Users/fredx4-mac/Documents/Personal/Softwares/javafx-sdk-25.0.1/lib/javafx.controls.jar",
+    "/Users/fredx4-mac/Documents/Personal/Softwares/javafx-sdk-25.0.1/lib/javafx.fxml.jar",
+    "/Users/fredx4-mac/Documents/Personal/Softwares/javafx-sdk-25.0.1/lib/javafx.graphics.jar",
+    "/Users/fredx4-mac/Documents/Personal/Softwares/javafx-sdk-25.0.1/lib/javafx.media.jar",
+    "/Users/fredx4-mac/Documents/Personal/Softwares/javafx-sdk-25.0.1/lib/javafx.swing.jar",
+    "/Users/fredx4-mac/Documents/Personal/Softwares/javafx-sdk-25.0.1/lib/javafx.web.jar",
+    "/Users/fredx4-mac/Documents/Personal/Softwares/javafx-sdk-25.0.1/lib/jdk.jsobject.jar",
+    "/Users/fredx4-mac/Documents/Personal/Softwares/javafx-sdk-25.0.1/lib/jfx.incubator.input.jar",
+    "/Users/fredx4-mac/Documents/Personal/Softwares/javafx-sdk-25.0.1/lib/jfx.incubator.richtext.jar"
+  ]
+}
