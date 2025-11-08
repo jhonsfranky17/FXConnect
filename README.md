@@ -56,14 +56,13 @@ Extract and note the path:
 ## ✅ Running the Project
 
 2️⃣ Run the Server
-javac Server.java
+javac Server.java  
 java Server
 
 
 Server Output Example:
 
 Server started on port 1234
-New client connected...
 
 3️⃣ Run the Client (JavaFX GUI)
 
@@ -77,22 +76,22 @@ java --module-path "/path/to/javafx/lib" --add-modules javafx.controls ChatClien
 
 ## ✅ Run multiple clients
 
-Open 2–3 new terminals and run the same client command.
+Open 2–3 new terminals and run the same client command.  
 Each client will receive messages in real time.
 
 ## ✅ Demo Flow
 
-Start the server
+1. Start the server
 
-Launch Client 1 → enter username → chat
+2. Launch Client 1 → enter username → chat
 
-Launch Client 2 → enter username → see both chats in sync
+3. Launch Client 2 → enter username → see both chats in sync
 
-Send messages from both
+4. Send messages from both
 
-Observe server logging realtime activity
+5. Observe server logging realtime activity
 
-Close a client → server logs disconnect
+6. Close a client → server logs disconnect
 
 ## ✅ Troubleshooting
 
@@ -116,11 +115,11 @@ private static final int PORT = 1234;
 
 ## ✅ Author
 
-Franklin Jetty Johnson
-Full Stack Developer
-IIT Guwahati X DS
-VIT Vellore X MCA
-Kerala, India
+Franklin Jetty Johnson    
+Full Stack Developer  
+IIT Guwahati X DS  
+VIT Vellore X MCA  
+Kerala, India  
 
 ## ✅ License
 
